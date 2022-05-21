@@ -1,0 +1,22 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.images {
+    text-align: center;
+}
+img {
+    height: 400px;
+    width: auto;
+}
+
+ul {
+    text-align: center;
+    font-size: 35px;
+}
